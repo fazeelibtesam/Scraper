@@ -20,8 +20,8 @@ The goal of this project is to:
 Ensure you have Python 3.7+ installed. Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/fazeelibtesam/Web_Scraping.git
-cd Web_Scraping
+git clone https://github.com/fazeelibtesam/Scraper.git
+cd Scraper
 pip install -r requirements.txt
 ```
  
@@ -35,7 +35,7 @@ python Web_Scraper.ipynb
 
 ## ⚙️ Configuration
 
-Inside `scraper.py`, you can customize:
+Inside `Web_Scraper.ipynb`, you can customize:
 
 * **Target URLs** – change the base URL or list of pages to scrape.
 * **Output Format** – switch between CSV, Excel, or JSON as needed.
