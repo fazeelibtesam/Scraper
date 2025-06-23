@@ -20,8 +20,8 @@ The goal of this project is to:
 Ensure you have Python 3.7+ installed. Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/web-scraping-business-insights.git
-cd web-scraping-business-insights
+git clone https://github.com/fazeelibtesam/Web_Scraping.git
+cd Web_Scraping
 pip install -r requirements.txt
 ```
  
